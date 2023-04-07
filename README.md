@@ -63,7 +63,7 @@ Note your current IP address on a note text file by browse to [whatismyipaddress
 
 Create a Windows 10 Virtual Machine in another geographic location (try a different country)
 
-![](https://github.com/odiraonodugo/image/blob/main/RG%20and%20VM%20creation.png)
+![](https://github.com/odiraonodugo/image/blob/main/VM2.png)
 
 Log into the VM with Remote Desktop
 
