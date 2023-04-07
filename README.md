@@ -56,7 +56,9 @@ VPN are a technology that use encrypted tunnels to allow for a remote computer o
 
 Note your current IP address on a note text file by browse to [whatismyipaddress](https://whatismyipaddress.com/) on your local computer 
 
-![](https://github.com/odiraonodugo/image/blob/main/computer%20ip%20address.png)
+
+
+
 
 
 Create a Windows 10 Virtual Machine in another geographic location (try a different country)
