@@ -102,7 +102,7 @@ Try browsing to Google, Bing or Netflix and see if there is anything different a
 
 
 
-This is how you connect to VPN to access organisational network.
+This is how you connect to VPN to access your organisational network.
 
 
 ![](https://github.com/odiraonodugo/image/blob/main/vpn%20connetion.png)
