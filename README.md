@@ -90,7 +90,7 @@ Login to the VPN and choose a VPN server in yet another country (such as Japan)
 Browse to [whatismyipaddress](https://whatismyipaddress.com/)  and take note of this in a text file.
 
 
-![](https://drive.google.com/open?id=1Ufk32_IzEMDBPX21FxxV6DoaKLgDYIsl&authuser=odiracollins%40gmail.com&usp=drive_fs)
+![](https://github.com/odiraonodugo/image/blob/main/Japan.png)
 
 
 
